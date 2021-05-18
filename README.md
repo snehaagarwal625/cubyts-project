@@ -64,8 +64,8 @@ $ npm run test:cov
 # ONE API which will provide a solution for all the problem statements mentioned below.
 1. Problem statement 1: Odd vs. even: 
   1. Input: 1, 4, 2, 3, 3, 9, 1,7, 8, 5 
-  2. Expected output: 2, 4, 8, 9, 1, 1, 3, 3, 5, 7 
-  3. Expected logic: Display the even numbers in ascendind followed by the odd numbers, displayed in ascending order. 
+  2. Expected output: 2, 4, 8, 1, 1, 3, 3, 5, 7, 9
+  3. Expected logic: Display the even numbers in ascending followed by the odd numbers, displayed in ascending order. 
 2. Problem statement 2: Playing with Os and 1s: 
   1. Input: 0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0 , 0, 1, 1, 1, 0, 1, 1, 1, 0, 0 
   2. Expected output: 0, 1, 1, 0, 1, 1, 1 0, 0, 1, 1, 1, 1, 1, 1, 0. 
@@ -79,4 +79,8 @@ $ npm run test:cov
   2. Expected output: 1001001, Yes 
   3. Expected logic: Print the binary form of a number and discover whether the binary number is a palindrome or not. 
 
+```
+
+```bash
+# unit tests using jest for service and controller completed with 100% coverage
 ```
