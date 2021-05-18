@@ -62,21 +62,21 @@ $ npm run test:cov
 
 ```bash
 # ONE API which will provide a solution for all the problem statements mentioned below.
-- Problem statement 1: Odd vs. even: 
-  - Input: 1, 4, 2, 3, 3, 9, 1,7, 8, 5 
-  - Expected output: 2, 4, 8, 9, 1, 1, 3, 3, 5, 7 
-  - Expected logic: Display the even numbers in ascendind followed by the odd numbers, displayed in ascending order. 
-- Problem statement 2: Playing with Os and 1s: 
-  - Input: 0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0 , 0, 1, 1, 1, 0, 1, 1, 1, 0, 0 
-  - Expected output: 0, 1, 1, 0, 1, 1, 1 0, 0, 1, 1, 1, 1, 1, 1, 0. 
-  - Expected logic: If there are two consecutive zeros then display only one zero, display all the zeros (after shrinking) followed by the ones 
-- Problem statement 3: An interesting sort. 
-  - Input: 1, 0, 0, 11, 9, 0, 0, 0, 28, 0, 0, 0, 7, 1, 2, 78, 0, 0. 
-  - Expected output: 1, 1, 2, 7, 9, 11, 28, 78, 0, 0, 0, 0, 0. 0, 0, 0, 0, 0. 
-  - Expected logic: Display the sorted non-zero numbers in ascending order followed by all the zeros. 
-- Problem statement 4: Binay form & Palindrome or not. 
-  - Input: 73 
-  - Expected output: 1001001, Yes 
-  - Expected logic: Print the binary form of a number and discover whether the binary number is a palindrome or not. 
+1. Problem statement 1: Odd vs. even: 
+  1. Input: 1, 4, 2, 3, 3, 9, 1,7, 8, 5 
+  2. Expected output: 2, 4, 8, 9, 1, 1, 3, 3, 5, 7 
+  3. Expected logic: Display the even numbers in ascendind followed by the odd numbers, displayed in ascending order. 
+2. Problem statement 2: Playing with Os and 1s: 
+  1. Input: 0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 0, 0 , 0, 1, 1, 1, 0, 1, 1, 1, 0, 0 
+  2. Expected output: 0, 1, 1, 0, 1, 1, 1 0, 0, 1, 1, 1, 1, 1, 1, 0. 
+  3. Expected logic: If there are two consecutive zeros then display only one zero, display all the zeros (after shrinking) followed by the ones 
+3. Problem statement 3: An interesting sort. 
+  1. Input: 1, 0, 0, 11, 9, 0, 0, 0, 28, 0, 0, 0, 7, 1, 2, 78, 0, 0. 
+  2. Expected output: 1, 1, 2, 7, 9, 11, 28, 78, 0, 0, 0, 0, 0. 0, 0, 0, 0, 0. 
+  3. Expected logic: Display the sorted non-zero numbers in ascending order followed by all the zeros. 
+4. Problem statement 4: Binay form & Palindrome or not. 
+  1. Input: 73 
+  2. Expected output: 1001001, Yes 
+  3. Expected logic: Print the binary form of a number and discover whether the binary number is a palindrome or not. 
 
 ```
